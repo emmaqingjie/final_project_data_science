@@ -1,7 +1,5 @@
 
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 
 checkin_checkout_df = pd.read_csv('checkin_checkout_history_updated.csv')
 gym_location_df = pd.read_csv('gym_locations_data.csv')
