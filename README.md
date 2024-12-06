@@ -11,7 +11,7 @@ This repository contains the final project for the Computational Tools for Data 
 ## Repository Structure
 - **`data/`**: Processed datasets used in the analysis.
   - **`data/_raw`**: Raw datasets.
-  - **`data/plots/`**: Visualizations and figures generated during the analysis.
+  - **`data/plots`**: Visualizations and figures generated during the analysis.
 - **`scripts/`**: Jupyter notebooks.
 
 
