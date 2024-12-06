@@ -15,4 +15,4 @@ This repository contains the final project for the Computational Tools for Data 
 - **`plots/`**: Visualizations and figures generated during the analysis.
 
 ## Dataset
-The dataset includes information on gym check-ins, user metadata, and workout sessions, serving as the basis for clustering, classification, and behavioral pattern analysis.
+The dataset includes information on gym check-ins, user metadata, and workout sessions.
